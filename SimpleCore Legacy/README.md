@@ -3,19 +3,17 @@ This is the old version of SimpleCore called legacy
 
 ![](Build_Photos/image_readme/Preview.jpg)
 
-PLEASE NOTE THIS A OLD VERSION! ( I am getting ready to release MK1 which will be the offical completed release )
-
 The goal of this printer is to make a very simple DIY corexy 3D printer than can be built by anyone for the cheapest possible.
 
 Features:
 
 - Simple frame using standard size 2020 extrusions, no drilling or tapping
-- EVA 2.4 Toolhead support, build the printer you want
+- EVA 2.4 and EVA 3 Toolhead support, build the printer you want
 - Triple belted Z motors
 - Fully enclosable design
 - Klicky Probe Support
 
-BOM for SimpleCore Legacy ( Outdated Design )
+BOM for SimpleCore Legacy
 https://docs.google.com/spreadsheets/d/1O3hkrCF_OMRDucAhxMPro0IfUh7aCPbqEiQB7Yf0kRw/edit#gid=0
 
 My Discord
