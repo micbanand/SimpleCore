@@ -1,5 +1,4 @@
 # SimpleCore Legacy
-This is the old version of SimpleCore called legacy
 
 ![](Build_Photos/image_readme/Preview.jpg)
 
