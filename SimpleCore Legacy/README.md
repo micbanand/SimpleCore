@@ -1,5 +1,9 @@
 # SimpleCore Legacy
 
+# THIS IS OUTDATED PLEASE GO TO MY DISCORD FOR THE LATEST FILES CALLED SIMPLECORE REDUX by CHAZ
+My Discord
+https://discord.gg/Dx3qwQN2DS
+
 ![](Build_Photos/image_readme/Preview.jpg)
 
 The goal of this printer is to make a very simple DIY corexy 3D printer than can be built by anyone for the cheapest possible.
@@ -15,8 +19,6 @@ Features:
 BOM for SimpleCore Legacy
 https://docs.google.com/spreadsheets/d/1O3hkrCF_OMRDucAhxMPro0IfUh7aCPbqEiQB7Yf0kRw/edit#gid=0
 
-My Discord
-https://discord.gg/Dx3qwQN2DS
 
 Find it on Youtube
 https://www.youtube.com/watch?v=aPkX0bcwmN4
